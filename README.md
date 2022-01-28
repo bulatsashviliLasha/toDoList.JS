@@ -1,1 +1,1 @@
-# [toDoList](https://lashareichert.github.io/toDoList.JS/)
+# [toDoList](https://bulatsashviliLasha.github.io/toDoList.JS/)
